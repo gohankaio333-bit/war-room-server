@@ -1,0 +1,11 @@
+{
+  "name": "war-room-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "^4.5.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
